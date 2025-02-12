@@ -2,8 +2,8 @@ import discord
 from discord.ext import commands
 from discord import app_commands
 
-GUILD_ID = YOUR_GUILD_ID  # Replace with your server ID
-TICKET_CATEGORY_ID = YOUR_TICKET_CATEGORY_ID  # Replace with the ID of the category where tickets should be created
+GUILD_ID = 1251412440566992977  # Replace with your server ID
+TICKET_CATEGORY_ID = 1339282090193064036  # Replace with the ID of the category where tickets should be created
 
 
 class Tickets(commands.Cog):
